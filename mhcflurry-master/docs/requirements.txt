@@ -1,0 +1,10 @@
+sphinx
+sphinxcontrib-autorun2
+sphinxcontrib-programoutput
+sphinxcontrib-autoprogram
+sphinx-rtd-theme
+numpydoc
+pypandoc
+mhctools
+pydot
+tabulate
