@@ -1,4 +1,3 @@
-# ECBME4060_final_project
 # Prediction of missense mutated tumor antigens binding with HLA-A and HLA-B using MHCFlurry
 
 <pre>
@@ -24,8 +23,7 @@ Motivation: Antigen-specific T-cell immune responses against peptides derived fr
 Results: On the missense mutated tumor peptide dataset with binding affinity score less than 50nM that are functionally relevant in the Cancer Genome Project, we compute the binding affinity between the tumor peptides and HLA-A0201 and HLA-B0702. Then, we predict which missense mutated tumor peptide has the largest impact on HLA-A0201 and HLA-B0702. 
 
 
-<pre>
+# Uploaded Work
 The mchFlurry package is attached in the MHCFlurry Folder.
 
 The code for the project is found in ECBME4060_final_jupyter.ipynb.
-</pre>
