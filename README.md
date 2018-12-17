@@ -2,10 +2,13 @@
 Prediction of missense mutated tumor antigens binding with HLA-A and HLA-B using MHCFlurry
 
 Author: Wanqi Wang, Jun Hyek Jang, and Hui Tan
+
 Uni: ww2470, jj2883, ht2464
 
 Department of Genetics and Development, Columbia University, New York 10032, USA.
+
 Department of Electrical engineering, the Fu foundation School of Engineering and Applied Science, Columbia University, New York 10027, USA.
+
 Department of Chemistry, Columbia University, New York 10027, USA.
 
 Abstract
